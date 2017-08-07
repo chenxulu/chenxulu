@@ -1,0 +1,11 @@
+{
+    "name": "chenxulu/student_manage",
+    "type":"project",
+    "authors": [
+        {
+            "name": "jkhds",
+            "email": "991700541@qq.com"
+        }
+    ],
+    "require": {}
+}
